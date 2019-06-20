@@ -1,0 +1,8 @@
+url(r'^admin/blog/info/me', admin.site.urls),
+
+
+
+
+gmail id : phanisreee@gmail.com
+user id: phanisriarts
+password:phanisri.1507
